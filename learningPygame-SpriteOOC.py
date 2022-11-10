@@ -268,3 +268,6 @@ while True:
 
     pygame.display.update()
     clock.tick(60)
+
+
+#Testing, legger egentlig bare til en kommentar for å se at git fungerer :)
